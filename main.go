@@ -1,4 +1,4 @@
-//Made by yacine aridhi with lovee
+//Made by yacine aridhi with love
 
 package main
 
